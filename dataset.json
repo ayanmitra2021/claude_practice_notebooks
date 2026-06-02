@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Marathon preparation with carbohydrate loading and optimal hydration for endurance performance",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Total daily calories meet or exceed 4000 kcal",
+      "Carbohydrates comprise 60-70% of total calories with emphasis on complex carbs",
+      "Hydration strategy includes specific fluid intake recommendations totaling 2.5+ liters",
+      "Meal plan covers breakfast, lunch, dinner, and snacks in compact format"
+    ],
+    "task_description": "Write a compact 1 day meal plan for a single athelete",
+    "scenario": "Testing with a high-intensity endurance athlete (marathon runner) requiring 4000+ calories with emphasis on carbohydrate loading and hydration strategy"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "72",
+      "goal": "build muscle and maintain endurance for competitive cycling",
+      "restrictions": "vegan"
+    },
+    "solution_criteria": [
+      "Meal plan covers all three meals for one day with adequate protein from plant-based sources (legumes, tofu, nuts, seeds)",
+      "Includes sufficient carbohydrates and healthy fats to support athletic performance and recovery",
+      "Addresses key micronutrient concerns for vegan athletes (iron, B12, calcium, zinc)",
+      "Meal plan is compact and practical to prepare"
+    ],
+    "task_description": "Write a compact 1 day meal plan for a single athelete",
+    "scenario": "Testing with an athlete with dietary restrictions (vegan) requiring alternative protein sources and micronutrient considerations while maintaining athletic performance nutrition"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "82 kg",
+      "goal": "Maximize strength and muscle gains with optimal protein timing around weightlifting sessions",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan covers all meals for one full day with specific timing around workout",
+      "Total daily protein intake meets or exceeds 1.6g per kg bodyweight (131g minimum)",
+      "Pre-workout and post-workout meals are explicitly identified with appropriate macronutrient composition for strength training",
+      "Caloric intake supports muscle building goals for an 82kg strength athlete"
+    ],
+    "task_description": "Write a compact 1 day meal plan for a single athelete",
+    "scenario": "Testing with a strength/power athlete (weightlifter) requiring specific protein intake timing around workout sessions with macro-nutrient balance"
+  }
+]
