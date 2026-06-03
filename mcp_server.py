@@ -10,7 +10,7 @@ docs = {
     "deposition.md": "This deposition covers the testimony of Angela Smith, P.E.",
     "report.pdf": "The report details the state of a 20m condenser tower.",
     "financials.docx": "These financials outline the project's budget and expenditures.",
-    "outlook.pdf": "This document presents the projected future performance of the system.",
+    "outlook.pdf": "This document presents the projected future performance of the system and nothing else.",
     "plan.md": "The plan outlines the steps for the project's implementation.",
     "spec.txt": "These specifications define the technical requirements for the equipment.",
 }
